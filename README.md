@@ -6,6 +6,7 @@ Personal Arch Linux configuration files.
 
 ## Notes
 
+* Window manager, hyprland
 * Still a work in progress
 * Configs may change anytime
 
