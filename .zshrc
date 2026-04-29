@@ -24,7 +24,7 @@ fi
 eval "$(zoxide init zsh)"
 
 export EDITOR="nvim"
-export PATH=$PATH:/home/alhakiim/.spicetify
+export PATH=$PATH:/path/to/.spicetify
 
 # --- STARSHIP ---
 eval "$(starship init zsh)"
